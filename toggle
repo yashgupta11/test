@@ -1,0 +1,128 @@
+<div class="w-section section tint">
+<div class="w-container container">
+<div class="w-row">
+
+<div class="course-content-wrapper">
+<div class="section-title-wrapper course">
+<h2 class="section-title">FAQ's</h2>
+<div class="section-title-divider"></div>
+</div>
+<div class="w-richtext course-description">
+
+
+<b><a href="javascript:animatedcollapse.show(['jason', 'kelly', 'michael'])"></a>
+<a href="javascript:animatedcollapse.hide(['jason', 'kelly', 'michael'])"></a></b>
+
+<b><a href="javascript:animatedcollapse.show(['json', 'kely', 'mchael'])"></a>
+<a href="javascript:animatedcollapse.hide(['json', 'kely', 'mchael'])"></a></b>
+
+<b><a href="javascript:animatedcollapse.show(['jon', 'key', 'mchal'])"></a>
+<a href="javascript:animatedcollapse.hide(['jon', 'key', 'mchal'])"></a></b>
+
+<b><a href="javascript:animatedcollapse.show(['abc', 'def', 'pqr'])"></a>
+<a href="javascript:animatedcollapse.hide(['abc', 'def', 'pqr'])"></a></b>
+
+<b><a href="javascript:animatedcollapse.show(['xyz', 'nmp', 'klm'])"></a>
+<a href="javascript:animatedcollapse.hide(['xyz', 'nmp', 'klm'])"></a></b>
+
+<b><a href="javascript:animatedcollapse.show(['olm', 'npq', 'rst'])"></a>
+<a href="javascript:animatedcollapse.hide(['olm', 'npq', 'rst'])"></a></b>
+
+<b><a href="javascript:animatedcollapse.show(['wx', 'xy', 'yz'])"></a>
+<a href="javascript:animatedcollapse.hide(['wx', 'xy', 'yz'])"></a></b>
+
+<b><a href="javascript:animatedcollapse.show(['bh', 'ch', 'dh'])"></a>
+<a href="javascript:animatedcollapse.hide(['bh', 'ch', 'dh'])"></a></b>
+
+<b><a href="javascript:animatedcollapse.show(['eh', 'fh', 'gh'])"></a>
+<a href="javascript:animatedcollapse.hide(['eh', 'fh', 'gh'])"></a></b>
+
+<b><a href="javascript:animatedcollapse.show(['ih', 'jh', 'kh'])"></a>
+<a href="javascript:animatedcollapse.hide(['ih', 'jh', 'kh'])"></a></b>
+
+
+
+
+<a style="text-decoration: none;" href="javascript:animatedcollapse.toggle('jason')">
+<p><b><img src="faq-icon.png" border="0" />&nbsp;What ASHACEL&#174; Polymer products are offered?</b></p></a> 
+<div id="jason" style="height=100%; width: 100%; display:none">
+<p align="justify">
+Asha Cellulose (I) Pvt Ltd Company manufactures and markets many different ASHACEL&#174; products to accommodate the needs of 
+customers for different physical properties, uses, viscosities, and solubilities.</p>
+
+<p align="justify">ASHACEL&#174; polymers are white granular powders with a bulk density of approximately 0.4 g/cm 3. 
+The differences in physical properties of ASHACEL&#174; polymers result largely from variation in ethoxyl content. 0.3 to 0.4 g/cc</p>
+
+<p align="justify">ASHACEL&#174; polymers are produced in two ethoxyl types ( M and H) that cover the range of the most useful ethoxyl content. 
+"M" polymers have an ethoxyl content of 48.0 to 49.5%; and "H" polymers have an ethoxyl content of minimum 49.6 % .</p>
+
+<p align="justify">ASHACEL&#174; polymers are also produced and marketed in a number of different viscosities. 
+Viscosity increases as the length of the polymer molecule increases.</p>
+
+<p align="justify">"M" and ''H'' ethoxyl types are available in various grades useful in
+ regulated as well as industrial application refers to the table below These 
+ grades are designed to meet the requirements of pharmaceutical applications.</p>
+ <br>
+
+<div align="center">
+	<table border="1" cellpadding="4" cellspacing="0" bordercolor="#73AE42">
+		<tr bgcolor="#73AE42" class="style3">
+			<td width="184" valign="top">
+			<p align="center" class="style3"><strong>Product viscosity </strong>
+			</p></td>
+			<td width="229" valign="top">
+			<p align="center" class="style3"><strong>Solution viscosity range (cp)1 
+			</strong></p></td>
+			<td width="200" valign="top">
+			<p align="center" class="style3"><strong>Ethoxyl content (%) 
+			</strong></p></td>
+		</tr>
+		<tr bgcolor="#F7FDEC">
+			<td width="184" valign="top">
+			<p align="center">Ashacel MP-4 </p>
+			<p align="center">Ashacel MP-7 </p></td>
+			<td width="229" valign="top" bgcolor="#F7FDEC">
+			<p align="center">3-5.5 </p>
+			<p align="center">6-8 </p></td>
+			<td width="200" valign="top">
+			<p align="center">48.0-49.5 </p>
+			<p align="center">48.0-49.5 </p></td>
+		</tr>
+		<tr bgcolor="#F7FDEC">
+			<td width="184" valign="top">
+			<p align="center">Ashacel MP-10 </p>
+			<p align="center">Ashacel MP14 </p></td>
+			<td width="229" valign="top">
+			<p align="center">9-11 </p>
+			<p align="center">12.6-15.4 </p></td>
+			<td width="200" valign="top">
+			<p align="center">48.0-49.5 </p>
+			<p align="center">48.0-49.5 </p></td>
+		</tr>
+		<tr bgcolor="#F7FDEC">
+			<td width="184" valign="top">
+			<p align="center">Ashacel MP-20 </p></td>
+			<td width="229" valign="top">
+			<p align="center">18-22 </p></td>
+			<td width="200" valign="top">
+			<p align="center">48.0-49.5 </p></td>
+		</tr>
+		<tr bgcolor="#F7FDEC">
+			<td width="184" valign="top">
+			<p align="center">Ashacel MP-45 </p></td>
+			<td width="229" valign="top">
+			<p align="center">41-49 </p></td>
+			<td width="200" valign="top">
+			<p align="center">48.0-49.5 </p></td>
+		</tr>
+		<tr bgcolor="#F7FDEC">
+			<td width="184" valign="top">
+			<p align="center">Ashacel MP-100 </p></td>
+			<td width="229" valign="top">
+			<p align="center">90-110 </p></td>
+			<td width="200" valign="top">
+			<p align="center">48.0-49.5 </p></td>
+		</tr>
+	</table></div>
+	<p> a Majewicz, T.G., et al., eds., &ldquo;Cellulose Ethers,&rdquo; Encylopedia of Polymer Science and Technology, John Wiley &amp; sons, Inc., New York, 2002. </p>
+</div>
